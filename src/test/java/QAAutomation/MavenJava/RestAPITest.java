@@ -6,13 +6,13 @@ public class RestAPITest
     public void PostJira()
     {
         System.out.println("PostJira");
-        System.out.println("PostJira added");
-        System.out.println("PostJira extra");
+        System.out.println("PostJira added 2");
     }
     @Test
     public void deleteTwitter()
     {
         System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter 2");
     }
     
 }
